@@ -18,7 +18,7 @@ Inside the Day_01, you will find:
 ## Notes
 
 - This repository is not affiliated with the original author.  
-- All credit for the challenge goes to Original Author (Raquel Limâ/https://github.com/RaquelLima7/30DaysOfCSS.git)
+- All credit for the challenge goes to Original author (Raquel Limâ/https://github.com/RaquelLima7/30DaysOfCSS.git)
 - Projects are created for practice and learning purposes only.
 
 ---
@@ -26,3 +26,4 @@ Inside the Day_01, you will find:
 ## License
 
 This repository is for educational purposes. Please check the original repository for license details.
+

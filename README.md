@@ -1,8 +1,8 @@
-# 30 Days CSS Challenge 
+                                                                         #🔥30 Days CSS Challenge 
 
 This repository contains my Daily Mini Projects from 30 Days CSS Challenge from the [30 Days CSS Challenge](https://github.com/RaquelLima7/30DaysOfCSS.git) by Raquel Limâ.
 
-I am participating in this challenge to Practice and improve my CSS skills. All projects are created by me by following the challenge instructions, and are for learning purposes only.
+I participating in this challenge to Practice and improve my CSS skills. All projects are created by me for learning purposes only.
 
  # Day 1 -Animation Screen
 
@@ -26,4 +26,5 @@ Inside the Day_01, you will find:
 ## License
 
 This repository is for educational purposes. Please check the original repository for license details.
+
 

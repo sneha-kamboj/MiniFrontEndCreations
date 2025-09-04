@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> df04a6abdadbdb5f0bdf2f1956ca70dbecfec11a
 # 30 Days CSS Challenge 
 
 This repository is inspired by [Raquel Limâ’s 30 Days CSS Challenge](https://github.com/RaquelLima7/30DaysOfCSS.git). I’ve added my own creativity and custom styles to make this a unique re-implementation.
@@ -28,7 +31,7 @@ Inside the Day_01, you will find:
 ## License
 
 This repository is for educational purposes. Please check the original repository for license details.
-=======
+
 # 🔥30 Days CSS Challenge 
 
 This repository contains my Daily Mini Projects from 30 Days CSS Challenge from the [30 Days CSS Challenge](https://github.com/RaquelLima7/30DaysOfCSS.git) by Raquel Limâ.
@@ -59,4 +62,7 @@ This repository is for educational purposes. Please check the original repositor
 
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> df04a6abdadbdb5f0bdf2f1956ca70dbecfec11a

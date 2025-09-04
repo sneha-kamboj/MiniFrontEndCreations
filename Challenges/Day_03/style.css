@@ -1,0 +1,46 @@
+body{
+    background-color:black;
+     align-items: center;
+    display: flex;
+    justify-content: center;
+    font-family: 'Permanent Marker', sans-serif;
+    height: 100vh;
+    
+}
+.my-box{
+    color: white;
+    font-size: 50px;  
+    white-space: nowrap;   
+}
+/* Apply to your text element */
+p{
+  font-size: 3rem;
+  font-weight: bold;
+  text-align: center;
+  opacity: 0; /* start hidden */
+  transform: translateY(20px); /* start slightly down */
+
+  /* Gradient text setup */
+  background: linear-gradient(90deg, #e617c0, #871ef0, #0af5d6);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+
+  
+
+  /* Animation setup */
+  animation: fadeSlide 2s ease forwards, shine 3s linear infinite;
+}
+
+/* Fade + Slide-up animation */
+@keyframes fadeSlide {
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Gradient shine animation */
+@keyframes shine {
+  0% { background-position: 0% 50%; }
+  100% { background-position: 200% 50%; }
+}

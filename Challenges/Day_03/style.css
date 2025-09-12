@@ -1,6 +1,6 @@
 body{
-    background-color:black;
-     align-items: center;
+    background: linear-gradient(135deg, #000000, #0a0f1f, #120028);
+    align-items: center;
     display: flex;
     justify-content: center;
     font-family: 'Permanent Marker', sans-serif;
@@ -21,10 +21,11 @@ p{
   transform: translateY(20px); /* start slightly down */
 
   /* Gradient text setup */
-  background: linear-gradient(90deg, #e617c0, #871ef0, #0af5d6);
+ background: linear-gradient(90deg, #e617c0, #871ef0, #0af5d6);
+  background-size: 200% auto; /* make gradient bigger so it can animate */
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-
+  background-clip: text;
   
 
   /* Animation setup */
@@ -43,3 +44,4 @@ p{
 @keyframes shine {
   0% { background-position: 0% 50%; }
   100% { background-position: 200% 50%; }
+}

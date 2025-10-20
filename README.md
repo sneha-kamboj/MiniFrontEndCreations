@@ -18,8 +18,11 @@ Inside the Day_01, you will find:
 ## Notes
 
 -This is my original work, created for self-learning and skill-building.
+
 -Projects include CSS styling, animations, and JavaScript interactivity.
--Each project is a creative mini-implementation,
+
+-Each project is a creative mini-implementation.
+
 -Projects are created purely for practice and learning purposes.
 
 ## License

@@ -1,13 +1,13 @@
-# 🔥30 Days CSS Challenge 
+# 🔥MiniFrontEndCreations
 
-This repository contains my Daily Mini Projects from 30 Days CSS Challenge from the [30 Days CSS Challenge](https://github.com/RaquelLima7/30DaysOfCSS.git) by Raquel Limâ.
+This repository contains my Daily Mini Projects where I practice and improve my CSS and JavaScript skills.
 
-I participating in this challenge to Practice and improve my CSS skills. All projects are created by me for learning purposes only.
+I participating in this challenge to Practice and improve my CSS and JavaScript skills. All projects are created by me for learning purposes only.
 
  # Day 1 -Animation Screen
 
 Description:  
-This is my first mini project from the 30-day CSS challenge. It demonstrates ("Animated Screen").
+This is my first mini project in this personal challenge. It demonstrates ("Animated Screen").
 
 Day_01: Animated Screem
 Inside the Day_01, you will find:
@@ -17,14 +17,14 @@ Inside the Day_01, you will find:
 
 ## Notes
 
--This repository is not affiliated with the original author.
--The challenge idea was inspired by Raquel Lima’s 30 Days CSS Challenge.
--I have added my own custom styles and creativity, so this version is not a copy but a creative re-implementation.
+-This is my original work, created for self-learning and skill-building.
+-Projects include CSS styling, animations, and JavaScript interactivity.
+-Each project is a creative mini-implementation,
 -Projects are created purely for practice and learning purposes.
 
 ## License
 
-This repository is for educational purposes. Please check the original repository for license details.
+This repository is for educational purposes.
 
 
 

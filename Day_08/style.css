@@ -1,0 +1,11 @@
+.search-icon {
+    width:200px;
+    height:25px;
+    border: 1px solid black;
+    border-radius:5px;
+    display: flex;
+    align-items : center;
+}
+.search-bar-container{
+    
+}
